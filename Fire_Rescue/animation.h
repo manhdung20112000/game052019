@@ -11,8 +11,8 @@ static position movingBox;
 static Clock clock1;
 static Texture wall1, wall2, floor_texture, bookshelf1, bookshelf2, desk, armchair, host, dummy, bloodbar;
 static Sprite host_sprite, bloodbar_sprite;
-static vector < vector <Sprite> > object_sprite(height - 1, vector <Sprite>(width - 1));
-static vector < vector <Sprite> > background_sprite(height - 1, vector <Sprite>(width - 1));
+static vector < vector <Sprite> > object_sprite(map_height - 1, vector <Sprite>(map_width - 1));
+static vector < vector <Sprite> > background_sprite(map_height, vector <Sprite>(map_width));
 static Vector2f axis_x(2, 0);
 static Vector2f axis_y(0, 5);
 
