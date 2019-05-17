@@ -37,6 +37,7 @@ int main() {
 	loadmenu();
 	loadMusic();
 
+	view.zoom(0.75f);
 	//character&host
 	position dummy;
 	position host_position;
