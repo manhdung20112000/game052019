@@ -46,7 +46,7 @@ int main() {
 	setPosition(map, dummy, host_position);
 	setCharacterPos(window, dummy);
 
-	window.setFramerateLimit(45);
+	window.setFramerateLimit(60);
 	while (window.isOpen()) {
 		//menu_music(startgame);
 		if (!tutorial)
