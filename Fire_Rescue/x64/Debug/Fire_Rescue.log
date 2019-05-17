@@ -1,0 +1,10 @@
+﻿  animation.cpp
+C:\Users\billy\Desktop\Fire_Rescue\const.h(16): warning C4091: 'static ': ignored on left of 'State' when no variable is declared
+C:\Users\billy\Desktop\Fire_Rescue\animation.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\billy\Desktop\Fire_Rescue\animation.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\billy\Desktop\Fire_Rescue\animation.cpp(38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\billy\Desktop\Fire_Rescue\animation.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\billy\Desktop\Fire_Rescue\animation.cpp(197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\billy\Desktop\Fire_Rescue\animation.cpp(205): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\billy\Desktop\Fire_Rescue\animation.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Fire_Rescue.vcxproj -> C:\Users\billy\Desktop\Fire_Rescue\x64\Debug\Fire_Rescue.exe
